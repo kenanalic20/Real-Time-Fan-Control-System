@@ -29,6 +29,7 @@ This project implements a real-time system to control a fan based on the gas con
 - MQ135 gas sensor.
 - DC fan (5V).
 - Power supply.
+- IRFZ44N transistor.
 - Connecting wires, breadboard, resistors, etc.
 
 ## Setup
