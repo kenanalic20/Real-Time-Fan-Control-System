@@ -47,7 +47,7 @@ This project implements a real-time system to control a fan based on the gas con
 
 - Power up the system.
 - The fan will automatically turn on when the gas concentration exceeds the predefined threshold.
-- The fan will turn off after the specified fan spin duration, even if the gas concentration remains high.
+- The fan will turn off after the specified fan spin duration and if the gas concentration gets low.
 **Watch a Demo Video:** [![Watch Demo](link_to_thumbnail_image)](https://www.youtube.com/shorts/qn2XoabOsRc)
 ## Customization
 
