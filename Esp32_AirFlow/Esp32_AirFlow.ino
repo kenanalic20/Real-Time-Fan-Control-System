@@ -1,5 +1,5 @@
 #define fanPin 14    
-#define MQ135 34  // Assuming MQ135 is connected to Analog pin A0
+#define MQ135 34  
 
 const int gasThreshold = 1500;
 const int fanSpinDuration = 10000;
